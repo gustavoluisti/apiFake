@@ -1,0 +1,97 @@
+{
+  "lsProponentes" : [ {
+    "nmCliente" : "Davi Luiz Antunes de Souza",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "12345678900",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
+  },
+  {
+    "nmCliente" : "Enzo Pietro Isaac Martins",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "25050058007",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 1
+  },{
+    "nmCliente" : "Anderson Kauê da Cruz",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "56078284843",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
+  },
+  {
+    "nmCliente" : "Márcio Vinicius Marcos Moraes",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "29327104439",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 1
+  },
+  {
+    "nmCliente" : "Marli Elza Rezende",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 1,
+    "nmCPF" : "76829907837",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
+  },
+  {
+    "nmCliente" : "Davi Luiz Antunes de Souza",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "12345678900",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
+  },
+  {
+    "nmCliente" : "Isabelly Benedita Emanuelly Baptista",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 1,
+    "nmCPF" : "46642091507",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 1
+  },
+  {
+    "nmCliente" : "Alice Eloá Sophia Santos",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 1,
+    "nmCPF" : "13722845408",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 1
+  },
+  {
+    "nmCliente" : "Rosa Luciana Renata Peixoto",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 1,
+    "nmCPF" : "78562122092",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
+  },
+  {
+    "nmCliente" : "Marcos Caio Benjamin Nunes",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "77582932552",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
+  },
+  {
+    "nmCliente" : "Geraldo Guilherme Teixeira",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "56754261676",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
+  },
+  {
+    "nmCliente" : "Davi Osvaldo Jesus",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "29177308700",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 1
+  } ]
+}
