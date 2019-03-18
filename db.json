@@ -93,5 +93,37 @@
     "nmCPF" : "29177308700",
     "nmCNPJ" : "16563200000192",
     "nmTipoCliente" : 1
+  },
+  {
+    "nmCliente" : "Alice Eloá Sophia Santos",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 1,
+    "nmCPF" : "13722845408",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 1
+  },
+  {
+    "nmCliente" : "Rosa Luciana Renata Peixoto",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 1,
+    "nmCPF" : "78562122092",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
+  },
+  {
+    "nmCliente" : "Marcos Caio Benjamin Nunes",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "77582932552",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
+  },
+  {
+    "nmCliente" : "Geraldo Guilherme Teixeira",
+    "dtNascimento" : "2015-07-20",
+    "idSexo" : 0,
+    "nmCPF" : "56754261676",
+    "nmCNPJ" : "16563200000192",
+    "nmTipoCliente" : 0
   } ]
 }
