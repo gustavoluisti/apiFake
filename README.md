@@ -29,5 +29,9 @@ http://localhost:5000/lsProponentes?idSexo=1
 
 http://localhost:5000/lsProponentes?nmCPF=46642091507
 
+<h2>Consulta por data de nascimento</h2>
+
+http://localhost:5000/lsProponentes?dtNascimento=2015-07-20
+
 
 
