@@ -10,16 +10,16 @@ git clone https://github.com/gustavoluisti/apiFake.git
 
 json-server --watch db.json
 
-{
-  "lsProponentes" : [ {
-    "nmCliente" : "Davi Luiz Antunes de Souza",
-    "dtNascimento" : "2015-07-20",
-    "idSexo" : 0,
-    "nmCPF" : "12345678900",
-    "nmCNPJ" : "16563200000192",
-    "nmTipoCliente" : 0
-  } ]
-}
+{ <br />
+  "lsProponentes" : [ {<br />
+    "nmCliente" : "Davi Luiz Antunes de Souza",<br />
+    "dtNascimento" : "2015-07-20",<br />
+    "idSexo" : 0,<br />
+    "nmCPF" : "12345678900",<br />
+    "nmCNPJ" : "16563200000192",<br />
+    "nmTipoCliente" : 0<br />
+  } ]<br />
+}<br />
 
 <h2>Consulta por sexo</h2>
 
