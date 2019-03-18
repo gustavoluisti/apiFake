@@ -21,3 +21,13 @@ json-server --watch db.json
   } ]
 }
 
+<h2>Consulta por sexo</h2>
+
+http://localhost:5000/lsProponentes?idSexo=1
+
+<h2>Consulta por Cpf</h2>
+
+http://localhost:5000/lsProponentes?nmCPF=46642091507
+
+
+
