@@ -33,5 +33,7 @@ http://localhost:5000/lsProponentes?nmCPF=46642091507
 
 http://localhost:5000/lsProponentes?dtNascimento=2015-07-20
 
+http://localhost:5000/lsProponentes?nmCliente_like=D
 
 
+ 
