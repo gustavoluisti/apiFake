@@ -35,5 +35,9 @@ http://localhost:5000/lsProponentes?dtNascimento=2015-07-20
 
 http://localhost:5000/lsProponentes?nmCliente_like=D
 
+<h2>Criando paginação</h2>
+
+http://localhost:5000/lsProponentes?_page=2&_limit=4
+
 
  
